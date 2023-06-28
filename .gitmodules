@@ -1,10 +1,7 @@
 [submodule ".registry"]
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
-	shallow = true
 	branch = HEAD
 [submodule "lazysql"]
 	path = lazysql
 	url = https://github.com/uweblock/lazysql
-	shallow = true
-	registered = true
